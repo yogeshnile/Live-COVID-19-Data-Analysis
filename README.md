@@ -13,11 +13,20 @@ I am use a jupyter notebook in this project, and i am use a below python librari
  - matplotlib
  - BeautifulSoup4
  - plotly
+ - lxml
+ - requests
+ - urllib.request
+ - chart_studio
+ - cufflinks
+ - folium
 
 **below same example of data visulization**
 
 
 <a href="https://imgur.com/dlGGnyG"><img src="https://i.imgur.com/dlGGnyG.png" title="source: imgur.com" /></a>
+
+
+<a href="https://imgur.com/UAoVO8C"><img src="https://i.imgur.com/UAoVO8C.png" title="source: imgur.com" /></a>
 
 
 ## Contributing
