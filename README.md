@@ -30,7 +30,15 @@ import plotly.offline as pyo
 from plotly.offline import init_notebook_mode,plot,iplot
 ```
 
-**below same example of data visulization**
+## Disclaimer
+
+
+This entire project depends on web scraping. When dependent website change their html structure that may be some function should not working properly.
+
+
+
+
+### **below same example of data visulization**
 
 
 <a href="https://imgur.com/dlGGnyG"><img src="https://i.imgur.com/dlGGnyG.png" title="source: imgur.com" /></a>
