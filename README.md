@@ -8,17 +8,27 @@ In this project are used Live covid-19 data
 this is a india's live COVID-19 data. Those data are include in state wise covid-19 cases in all over india and also include close cases and death cases in india
 
 I am use a jupyter notebook in this project, and i am use a below python libraries 
- - pandas
- - numpy
- - matplotlib
- - BeautifulSoup4
- - plotly
- - lxml
- - requests
- - urllib.request
- - chart_studio
- - cufflinks
- - folium
+```python
+from bs4 import BeautifulSoup
+import lxml
+import requests
+import urllib.request
+
+#Data Processing
+import pandas as pd
+
+#data Visualization
+import matplotlib.pyplot as plt
+from matplotlib import style
+style.use('ggplot')
+import chart_studio
+import plotly
+import plotly.express as px
+import plotly.graph_objects as go
+import cufflinks as cf
+import plotly.offline as pyo
+from plotly.offline import init_notebook_mode,plot,iplot
+```
 
 **below same example of data visulization**
 
