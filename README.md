@@ -10,37 +10,19 @@ In this project are used Live covid-19 data
 this is a india's live COVID-19 data. Those data are include in state wise covid-19 cases in all over india and also include close cases and death cases in india
 
 I am use a jupyter notebook in this project, and i am use a below python libraries 
-```python
-from bs4 import BeautifulSoup
-import lxml
-import requests
-import urllib.request
 
-#Data Processing
-import pandas as pd
+## Technology used in Project :hotsprings:
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="100">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="400">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/plotly.png" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/bs4.png" width="300">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/requests.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/folium.png" width="200">
 
-#data Visualization
-import matplotlib.pyplot as plt
-from matplotlib import style
-style.use('ggplot')
-import chart_studio
-import plotly
-import plotly.express as px
-import plotly.graph_objects as go
-import cufflinks as cf
-import plotly.offline as pyo
-from plotly.offline import init_notebook_mode,plot,iplot
-```
 
-## Disclaimer
+## Disclaimer :warning:
 
 
 This entire project depends on web scraping. When dependent website change their html structure that may be some function should not working properly.
 
 
 
-
-### **below same example of data visulization**
+## Screen Shots :camera_flash:
 
 
 <a href="https://imgur.com/dlGGnyG"><img src="https://i.imgur.com/dlGGnyG.png" title="source: imgur.com" /></a>
